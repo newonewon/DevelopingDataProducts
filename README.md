@@ -9,3 +9,6 @@ Next you can choose some parametes of the cars  Cylinders, Horse Power and Trans
 The table will show only the cars with the filters selected. You can sort the table according to the variable you want by clicking the arrows at the top of the table.
 
 Source code for files are available on the GitHub.
+
+The RPubs presentation is at http://rpubs.com/newone/DevelopingDataProducts
+
