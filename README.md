@@ -10,5 +10,5 @@ The table will show only the cars with the filters selected. You can sort the ta
 
 Source code for files are available on the GitHub.
 
-The RPubs presentation is at http://rpubs.com/newone/DevelopingDataProducts
+The RPubs presentation is at http://rpubs.com/newone/DevelopingDataProds
 
